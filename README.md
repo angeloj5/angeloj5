@@ -4,8 +4,8 @@ Here you can download my resumes:
 
 | Resume | Langue |
 | ------ | ------ |
-|-[Angel O Juárez J MX-ES.pdf](https://github.com/angeloj5/angeloj5/blob/main/Resumes/Angel%20O%20Ju%C3%A1rez%20J%20MX-ES.pdf)-|-Spanish-|
-|-[Angel O Juárez J US-EN.pdf](https://github.com/angeloj5/angeloj5/blob/main/Resumes/Angel%20O%20Ju%C3%A1rez%20J%20US-EN.pdf)-|-English-|
+|[Angel O Juárez J MX-ES.pdf](https://github.com/angeloj5/angeloj5/blob/main/Resumes/Angel%20O%20Ju%C3%A1rez%20J%20MX-ES.pdf)|Spanish|
+|[Angel O Juárez J US-EN.pdf](https://github.com/angeloj5/angeloj5/blob/main/Resumes/Angel%20O%20Ju%C3%A1rez%20J%20US-EN.pdf)|English|
 
 
 - 🔭 I’m currently working on ... Developing and learning about Cybersecurity and some development languages
