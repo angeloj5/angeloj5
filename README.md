@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 Here you can download my resumes:
-|-Resume-|-Langue-|
+
+| Resume | Langue |
+| ------ | ------ |
 |-[Angel O Juárez J MX-ES.pdf](https://github.com/angeloj5/angeloj5/blob/main/Resumes/Angel%20O%20Ju%C3%A1rez%20J%20MX-ES.pdf)-|-Mexico Spanish-|
 |-[Angel O Juárez J US-EN.pdf](https://github.com/angeloj5/angeloj5/blob/main/Resumes/Angel%20O%20Ju%C3%A1rez%20J%20US-EN.pdf)-|-Mexico Spanish-|
 
