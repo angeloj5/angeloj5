@@ -2,4 +2,4 @@ Manager with experience in infrastructure and software development and support, 
 
 Strong believer in personal and professional development. In addition, strong believer that the technology is as strong as the user is. Expert in motivating and building strong teams that can grow not only professionally but also personally.
 
-If we, the technical team, understand the business, the solutions will be easier to find and, the most important thing, the innovation will happen, not only technically speaking, but in the business industry.
+If we understand the business, the solutions will be easier to find and, the most important thing, the innovation will happen, not only technically speaking, but in the business industry.
