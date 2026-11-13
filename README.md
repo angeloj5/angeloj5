@@ -82,13 +82,10 @@ I'm a strong believer in personal and professional development, and that technol
 
 ## 🎓 Learning
 
-<img src="./IPN-Logo.png" width="200" alt="IPN">
-
-🎓 Bachelor's degree in Computer Science - IPN
-
-<img src="./tecnologico-de-monterrey-blue.png" width="200" alt="ITESM">
-
-🎓 Master's degree in IT Management - ITESM
+| | School | Degree |
+|--|--|--|
+| <img src="./IPN-Logo.png" width="200" alt="IPN"> | IPN | Bachelor's degree in Computer Science |
+| <img src="./tecnologico-de-monterrey-blue.png" width="200" alt="ITESM"> | ITESM | Master's degree in IT Management |
 
 ---
 
