@@ -77,7 +77,18 @@ I'm a strong believer in personal and professional development, and that technol
 - 📱 **Mobile**: native iOS (Swift) and Android (Kotlin) apps
 - 📈 **Agile & PM tooling**: sprint planning, OKR/KPI, roadmap and Azure DevOps integrations
 - 📊 **Data & dashboards**: Power BI, visualizers, reporting
-- 🎓 **Learning**: M.S. in IT Management (ITESM)
+
+---
+
+## 🎓 Learning
+
+<img src="./IPN-Logo.png" width="200" alt="IPN">
+
+🎓 Bachelor's degree in Computer Science - IPN
+
+<img src="./tecnologico-de-monterrey-blue.png" width="200" alt="ITESM">
+
+🎓 Master's degree in IT Management - ITESM
 
 ---
 
